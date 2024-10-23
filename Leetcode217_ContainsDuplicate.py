@@ -63,5 +63,5 @@ def test_ContainsDuplicates():
 
 # ************************************************* #
 # How to run the tests:
-# python3 -m pytest ContainsDuplicate_Leetcode217.py
+# python3 -m pytest Leetcode217_ContainsDuplicate.py
 # ************************************************* #

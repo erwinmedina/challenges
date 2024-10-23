@@ -79,5 +79,5 @@ def test_ProductOfArrayExceptSelf():
 
 # ********************************************************* #
 # How to run the tests:
-# python3 -m pytest ProductOfArrayExceptSelf_Leetcode238.py
+# python3 -m pytest Leetcode238_ProductOfArrayExceptSelf.py
 # ********************************************************* #

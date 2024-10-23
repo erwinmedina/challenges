@@ -73,5 +73,5 @@ def test_TwoSums():
 
 # ************************************* #
 # How to run the tests:
-# python3 -m pytest TwoSum_Leetcode1.py
+# python3 -m pytest Leetcode1_TwoSum.py
 # ************************************* #

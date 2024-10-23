@@ -48,5 +48,5 @@ def test_maximumSubarray():
 
 # *********************************************** #
 # How to run the tests:
-# python3 -m pytest MaximumSubarray_Leetcode53.py
+# python3 -m pytest Leetcode53_MaximumSubarray.py
 # *********************************************** #
