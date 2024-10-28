@@ -69,5 +69,5 @@ def test_moveZeroes():
 
 # ******************************************* #
 # How to run the tests:
-# python3 -m pytest Leetcode283_MoveZeroes.py
+# python3 -m pytest LeetCode/Easy/Leetcode283_MoveZeroes.py
 # ******************************************* #

@@ -82,5 +82,5 @@ def test_findDuplicate():
 
 # ************************************************* #
 # How to run the tests:
-# python3 -m pytest Leetcode287_FindDuplicateNumber.py
+# python3 -m pytest LeetCode/Medium/Leetcode287_FindDuplicateNumber.py
 # ************************************************* #

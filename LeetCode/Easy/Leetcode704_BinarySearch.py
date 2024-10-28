@@ -64,5 +64,5 @@ def test_binarySearch():
     
 # ************************************************* #
 # How to run the tests:
-# python3 -m pytest Leetcode704_BinarySearch.py
+# python3 -m pytest LeetCode/Easy/Leetcode704_BinarySearch.py
 # ************************************************* #

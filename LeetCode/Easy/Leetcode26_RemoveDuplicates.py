@@ -66,5 +66,5 @@ def test_removeDuplicates():
 
 # ************************************************* #
 # How to run the tests:
-# python3 -m pytest Leetcode26_RemoveDuplicates.py
+# python3 -m pytest LeetCode/Easy/Leetcode26_RemoveDuplicates.py
 # ************************************************* #
